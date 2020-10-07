@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2716393c46302264099f596ec7b07a78, type: 3}
+  m_Name: Lantern
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 1018328791618719094, guid: 137002c5a5aa51f429b2cd8c48064e7f,
+    type: 3}
+  itemObstacle: {fileID: 11400000, guid: c4260979008bfb842aa549d6adcfdec6, type: 2}
+  examineText: A crude lantern. It glows softly.
+  itemName: Lantern
+  maxStack: 10

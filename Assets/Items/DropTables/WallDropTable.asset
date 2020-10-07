@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f4366bd1ff962a4288d9b4c590bc66c, type: 3}
+  m_Name: WallDropTable
+  m_EditorClassIdentifier: 
+  itemSpawns:
+  - item: {fileID: 11400000, guid: 4466005f058a11441925a901e3bdbc36, type: 2}
+    spawnChance: 5
+    minCount: 1
+    maxCount: 5
+  - item: {fileID: 11400000, guid: e3177f5129089a34385784dfce263c78, type: 2}
+    spawnChance: 5
+    minCount: 1
+    maxCount: 5
+  - item: {fileID: 11400000, guid: 52f7c8d1a9f69704498662e3563b96c9, type: 2}
+    spawnChance: 5
+    minCount: 1
+    maxCount: 5
+  - item: {fileID: 11400000, guid: 4d2b40237b4907547a5b2df1970c02a8, type: 2}
+    spawnChance: 100
+    minCount: 1
+    maxCount: 1
